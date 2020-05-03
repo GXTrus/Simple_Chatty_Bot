@@ -1,0 +1,22 @@
+/.idea/
+/Simple Chatty Bot/Hello! What’s your name/task.html
+/Simple Chatty Bot/Hello! What’s your name/task-info.yaml
+/Simple Chatty Bot/Hello! What’s your name/task-remote-info.yaml
+/Simple Chatty Bot/How old are you/task.html
+/Simple Chatty Bot/How old are you/task-info.yaml
+/Simple Chatty Bot/How old are you/task-remote-info.yaml
+/Simple Chatty Bot/Let’s count!/task.html
+/Simple Chatty Bot/Let’s count!/task-info.yaml
+/Simple Chatty Bot/Let’s count!/task-remote-info.yaml
+/Simple Chatty Bot/task/tests.py
+/Simple Chatty Bot/The student and the teacher/task.html
+/Simple Chatty Bot/The student and the teacher/task-info.yaml
+/Simple Chatty Bot/The student and the teacher/task-remote-info.yaml
+/Simple Chatty Bot/What's my name/task.html
+/Simple Chatty Bot/What's my name/task-info.yaml
+/Simple Chatty Bot/What's my name/task-remote-info.yaml
+/Simple Chatty Bot/lesson-info.yaml
+/course-info.yaml
+/course-remote-info.yaml
+/requirements.txt
+/test_helper.py
